@@ -16,10 +16,10 @@ git clone https://github.com/learngcpwithmahesh/MountkirkGames.git <br/>
 
 Steps to follow:
 
-Create the Boot Disk Image through GCE and run this game app from that GCE Instance [This is a simple use case but in case if you want to have the ability to reach to the global audience, this is not enough] <br/>
-For Better Auto-Scaling abilities: [You've option to go either for Regional or Multi-Regional] <br/>
-Delete that instance and create Instance Template using the Boot Disk Image <br/>
-Create MIG <Managed Instance Group> using the Instance Template <br/>
-Create a Global Load Balancer <HTTPS> - Ensure to have 'Health-check' set up along with 'Auto-scaling' parameters taken in to consideration <br/>
-Configure Backend and Frontend services for the implementation <br/>
-Once the GLB is up and running <usually takes about 5 mins>., you can see the traffic flows in the GCP console under <br/>
+1. Create the Boot Disk Image through GCE and run this game app from that GCE Instance [This is a simple use case but in case if you want to have the ability to reach to the global audience, this is not enough] <br/>
+2. For Better Auto-Scaling abilities: [You've option to go either for Regional or Multi-Regional] <br/>
+3. Delete that instance and create Instance Template using the Boot Disk Image <br/>
+4. Create MIG <Managed Instance Group> using the Instance Template <br/>
+5. Create a Global Load Balancer <HTTPS> - Ensure to have 'Health-check' set up along with 'Auto-scaling' parameters taken in to consideration <br/>
+6. Configure Backend and Frontend services for the implementation <br/>
+7. Once the GLB is up and running <usually takes about 5 mins>., you can see the traffic flows in the GCP console under <br/>
