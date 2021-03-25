@@ -1,9 +1,7 @@
 A WebGL maze game built with Three.js and Box2dWeb. 
 Credits & Source from: https://github.com/wwwtyro/Astray and LearnGCPWithMahesh
 
-# Simple game which is used for hands-on project like a real time project experience
-# Game application on Google Compute Engine or Managed Instance Group
-### Launching the VM
+# Simple game which is used for hands-on project like a real time project experience. GCE or MIGs with Global-LoadBbalancer
 
 1. Provision a Google Compute Engine (GCE) with Apache Web Server and Git Installed using below startup script. <br/><br/>
 apt update <br/>
