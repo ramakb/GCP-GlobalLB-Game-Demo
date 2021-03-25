@@ -28,5 +28,5 @@ Many more features or services of GCP can be utilised and I'll update that here 
 
 Till then - Happy Learning!
 
-![image Before](/Users/thecloudguru/Desktop/Before.png)
-![image After](/Users/thecloudguru/Desktop/After.png)
+![image Before](https://github.com/ramakb/GCP-GlobalLB-Game-Demo/blob/main/Before.png)
+![image After](https://github.com/ramakb/GCP-GlobalLB-Game-Demo/blob/main/After.png)
