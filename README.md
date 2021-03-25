@@ -28,5 +28,5 @@ Many more features or services of GCP can be utilised and I'll update that here 
 
 Till then - Happy Learning!
 
-![GLB Before](https://github.com/ramakb/GCP-GlobalLB-Game-Demo/blob/main/Before.png)
-![GLB After](https://github.com/ramakb/GCP-GlobalLB-Game-Demo/blob/main/After.png)
+[GLB Before](https://github.com/ramakb/GCP-GlobalLB-Game-Demo/blob/main/Before.png)
+[GLB After](https://github.com/ramakb/GCP-GlobalLB-Game-Demo/blob/main/After.png)
