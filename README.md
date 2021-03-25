@@ -1,5 +1,5 @@
 A WebGL maze game built with Three.js and Box2dWeb. 
-Credits & Source from: https://github.com/wwwtyro/Astray
+Credits & Source from: https://github.com/wwwtyro/Astray and LearnGCPWithMahesh
 
 # Simple game which is used for hands-on project like a real time project experience
 # Game application on Google Compute Engine or Managed Instance Group
@@ -10,9 +10,9 @@ apt update <br/>
 apt install -y git <br/>
 apt install -y apache2 <br/>
 cd /var/www/html <br/>
-git clone https://github.com/learngcpwithmahesh/MountkirkGames.git <br/>
+git clone https://github.com/ramakb/GCP-GlobalLB-Game-Demo.git <br/>
 
-2. Open http://EXTERNAL-IP-GCE/MountkirkGames in your browser
+2. Open http://EXTERNAL-IP-GCE/GCP-GlobalLB-Game-Demo in your browser
 
 Steps to follow:
 
