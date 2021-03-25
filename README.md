@@ -27,3 +27,6 @@ Steps to follow:
 Many more features or services of GCP can be utilised and I'll update that here as a Phase-2 Approach
 
 Till then - Happy Learning!
+
+![image Before](/Users/thecloudguru/Desktop/Before.png)
+![image After](/Users/thecloudguru/Desktop/After.png)
