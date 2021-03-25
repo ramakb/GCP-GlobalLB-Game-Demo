@@ -21,3 +21,9 @@ Steps to follow:
 5. Create a Global Load Balancer <HTTPS> - Ensure to have 'Health-check' set up along with 'Auto-scaling' parameters taken in to consideration <br/>
 6. Configure Backend and Frontend services for the implementation <br/>
 7. Once the GLB is up and running <usually takes about 5 mins>., you can see the traffic flows in the GCP console under <br/>
+8. Use the External-IP to access the Game or the Application
+9. That's it - End of the Story as a Phase-1 Approach
+
+Many more features or services of GCP can be utilised and I'll update that here as a Phase-2 Approach
+
+Till then - Happy Learning!
